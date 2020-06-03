@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{929E5B92-4241-E3DF-D2C4-1F8421731B43}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MinidumpDiagnostics",
+			"Type": "Program",
+			"LoadingPhase": "Default"
+		}
+	]
+}
